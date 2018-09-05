@@ -6,7 +6,6 @@ cache:
 addons:
   apt:
     packages:
-    - nginx
     - curl
     - wget
     - ruby
