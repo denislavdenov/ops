@@ -9,9 +9,9 @@ provider "github" {
   organization = "DarkMagics"
 }
 
-resource "github_repository" "example1" {
+resource "github_repository" "example" {
   name        = "example1"
-  description = "My awesome codebase"
+  description = "My awesome ghrepo"
 }
 
 resource "random_pet" "repo" {
