@@ -2,3 +2,4 @@
 priv/
 terraform.tfstate*
 .DS_Store
+.kitchen/
